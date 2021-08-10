@@ -1,0 +1,51 @@
+body{
+    background-color: burlywood;
+}
+h1{
+    color:#210450 ;
+    text-align: center;
+    font-family: fantasy;
+    font-size: 70px;
+
+}
+h2{
+    color: maroon;
+    text-align: center;
+    font-family: monospace;
+    font-size: 70px;
+}
+p{
+    color:rgb(182, 23, 23);
+    text-align:left ;
+    
+}
+*{
+    box-sizing: border-box;
+}
+.im{
+    
+    float: left;
+    width:33.33%;
+    padding: 3px;
+    
+}
+.im img{
+    height:300px;
+       
+}
+.img{
+    margin:300 px;
+    width:45%;
+    padding:8 px;
+    float:right;
+    border:100 px solid black;
+}
+.text{
+    font-family: sans-serif;
+    font-size: 20px;
+}
+.im {
+    border-width: 20px ;
+    border-color: black;
+
+}
